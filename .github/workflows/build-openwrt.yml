@@ -6,6 +6,8 @@
 # Blog: https://p3terx.com
 #=================================================
 
+#Using customized .config
+
 name: Build OpenWrt
 
 on:
